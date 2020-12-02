@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MirrorXu/TypeScript-Journey/issues"
   },
-  "homepage": "https://github.com/MirrorXu/TypeScript-Journey#readme"
+  "homepage": "https://github.com/MirrorXu/TypeScript-Journey#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
 }
